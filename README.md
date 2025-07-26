@@ -18,7 +18,7 @@
 
 ### Clone Repo
 ```
-git clone https://github.com/atulkamble/Inventory-Manager.git
+https://github.com/Jadhavsunita/Inventory-Manager.git
 cd Inventory-Manager
 ```
 ---
